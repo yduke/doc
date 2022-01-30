@@ -1,0 +1,12 @@
+{
+    "title": "时光捕手主题说明文档",
+    "author": "Duke Yin",
+    "description": "时光捕手2 WordPress主题的说明文档",
+    "language": "zh",
+    "gitbook": "3.2.3",
+    "links": {
+        "sidebar": {
+            "时光捕手Docs": "https://doc.dukeyin.com/keepmins/"
+        }
+    }
+}

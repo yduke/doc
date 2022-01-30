@@ -1,0 +1,12 @@
+{
+    "title": "Keep Minutes Theme document",
+    "author": "Duke Yin",
+    "description": "The Documents of Keep Minutes 2 WordPress Theme",
+    "language": "en",
+    "gitbook": "3.2.3",
+    "links": {
+        "sidebar": {
+            "KeepMinutes Docs": "https://doc.dukeyin.com/keepmins/"
+        }
+    }
+}

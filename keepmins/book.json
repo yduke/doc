@@ -1,14 +1,4 @@
 {
-    "title": "Duke Yin主题说明文档",
-    "author": "Duke Yin",
-    "description": "Duke Yin主题的说明文档",
-    "language": "zh",
-    "gitbook": "3.2.3",
-    "links": {
-        "sidebar": {
-            "Duke Yin文档": "https://doc.dukeyin.com/dukeyin/"
-        }
-    },
     "plugins": [
         "-sharing",
         "code",
@@ -24,7 +14,7 @@
             "showLevel": true
         },
         "code": {
-            "copyButtons": false
+            "copyButtons": true
         }
     }
 }
