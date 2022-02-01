@@ -1,0 +1,30 @@
+{
+  "id": "3167701",
+  "name": "Documents",
+  "font_family": "iconfont",
+  "css_prefix_text": "ico-",
+  "description": "The documents homepage",
+  "glyphs": [
+    {
+      "icon_id": "29360",
+      "name": "Talk",
+      "font_class": "keepmins",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "60760",
+      "name": "duke_yin",
+      "font_class": "dukeyin",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "22813555",
+      "name": "squares-9",
+      "font_class": "squares",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    }
+  ]
+}
