@@ -1,18 +1,13 @@
 {
     "plugins": [
         "-sharing",
-        "code",
-        "anchors",
-        "anchor-navigation-ex",
-        "expandable-chapters-small"
+        "-search",
+        "code"
     ],
     "pluginsConfig": {
 	    "theme-default": {
         "showLevel": true
 		},
-        "anchor-navigation-ex": {
-            "showLevel": true
-        },
         "code": {
             "copyButtons": true
         }

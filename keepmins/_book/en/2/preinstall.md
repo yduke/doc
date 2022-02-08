@@ -1,6 +1,6 @@
 # Pre-install
 
-## 1 WordPress
+## WordPress
 
 - A fully functional WordPress site with admin privileges
 - SSL certificate encryption. ( https protocol access )
@@ -27,16 +27,16 @@ You can change permalink format at： WP admin panel -> Settings -> permalinks -
 
 Long and complicated permalink formats are not recommended.
 
-## 2 Files
+## Files
 
 When you receive this theme, 2 files are included：
 
 - keep-minutes-2.zip
-- plugins.zip
+- wp-postviews.zip
 
 These 2 files are all we need for setting up the theme, put them to location where you can found and prepare to install.
 
-## 3 Theme license key
+## Theme license key
 
 The license key code for the theme is attached to the email. The license key code is unique and can only be used by you.
 
@@ -44,7 +44,7 @@ The number of theme that the activation code can activate is limited.
 
 Remember, don’t expose the activation code to others. If someone else used the activation code, you won’t be able to activate your theme.
 
-## 4 Get a Map Service API Key (Optional)
+## Get a Map Service API Key (Optional)
 
 *This step is optional, but if you skip this step, the geo location function will not work.*
 
@@ -84,7 +84,7 @@ For example: My site language is English and I lived in US, I only have to get a
 
  
 
-### 4.2 Tencent Map API Key ( for Chinese users only )
+### Tencent Map API Key ( for Chinese users only )
 
 #### Step by step：
 
@@ -108,6 +108,6 @@ There are limits in both service key for free user, so use your own key and do n
 
 If you over use the geo-location function in theme, additional charge from map service may apply.
 
-## 5 10 minutes time
+## 10 minutes time
 
 Installing theme is easy when you get all stuffs you need, now you need 10 minutes free to move on to the next chapter.

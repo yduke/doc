@@ -1,5 +1,16 @@
 # Change log
 
+## Keep Minutes  2.9.8.6
+
+February 08, 2022
+
+- Removed a lot of description text in the tag group page
+- Aside post (little status) will not contain image(s) any more
+- Fixed spelling mistakes in ReadMe.txt
+- Optimized the logic of obtaining device information
+
+
+
 ## Keep Minutes  2.9.8.5.2 
 
 January 27, 2022

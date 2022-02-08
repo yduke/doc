@@ -2,15 +2,15 @@
 
 You can choose either auto update or manual update.
 
-## 1 Auto update
+## Auto update
 
 - Click “Updates” in dashboard menu
 - If there is an update, will show down below in this page.
 - Select theme and click “Update”, this theme will be updated automatically.
 
-## 2 Manual update
+## Manual update
 
-### 2.1 Preparation before update
+### Preparation before update
 
 During the theme update, the website will not be accessible. Please do update when the traffic is low.
 
@@ -18,13 +18,13 @@ During the theme update, the website will not be accessible. Please do update wh
 - It is recommended to stop the site (this can usually be done in the hosts management panel)
 - If you have modified the theme file before, please take a note of the modified file for future operation.
 
-### 2.2 update
+### update
 
 - Delete all old theme files in your site disk space.
 - Upload the new theme file to the website space to ensure consistency with the previous directory structure.
 - Start up your website, if you are lucky, nothing more you need to do, update is complete
 
-### 2.3 Pay attention
+### Pay attention
 
 - If you have used any CDN before, it is recommended to refresh all css and js files in the CDN after the update is complete.
 - The theme files that you modified before need to be modified one by one again.
