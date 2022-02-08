@@ -1,2 +1,5 @@
 */node_modules/
-
+*.html
+*.js
+search_index.json
+*.css
