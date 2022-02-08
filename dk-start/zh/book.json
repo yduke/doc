@@ -1,0 +1,12 @@
+{
+    "title": "DK导航插件说明文档",
+    "author": "Duke Yin",
+    "description": "DK导航 WordPress插件的说明文档",
+    "language": "zh",
+    "gitbook": "3.2.3",
+    "links": {
+        "sidebar": {
+            "DK导航插件说明文档": "https://doc.dukeyin.com/zh/dk-start"
+        }
+    }
+}

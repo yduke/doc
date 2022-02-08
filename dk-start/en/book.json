@@ -1,0 +1,12 @@
+{
+    "title": "DK Start Document",
+    "author": "Duke Yin",
+    "description": "The Documents of DK Start WordPress Plugin",
+    "language": "en",
+    "gitbook": "3.2.3",
+    "links": {
+        "sidebar": {
+            "DK Start Document": "https://doc.dukeyin.com/zh/dk-start"
+        }
+    }
+}

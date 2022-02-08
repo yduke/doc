@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        "-sharing",
+        "-search",
+        "code"
+    ],
+    "pluginsConfig": {
+	    "theme-default": {
+        "showLevel": true
+		},
+        "code": {
+            "copyButtons": true
+        }
+    }
+}
