@@ -4,7 +4,7 @@
 
 “DukeYin”最初的目的是替换早年旧的主题“DKGRAY”。
 
-
+![](\assets\dkgray_screenshot.png)
 
 DKGray主题历史相当悠久，经过几十次迭代之后，目前核心的自定义模块显得非常老旧，最大的问题是与最新的PHP7.2不兼容。所以，新做一个主题替代DKGray显得尤为必要。
 

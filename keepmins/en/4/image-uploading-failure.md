@@ -14,17 +14,17 @@ In addition, for optimizing PHP speed, it is recommended to install the followin
 
 - opcache
 
-ccording to the server’s configuration, choose one of the following database cache extensions to install:
+According to the server’s configuration, choose one of the following database cache extensions to install:
 
 Redis
 
 - redis
 
-Memocache
+Memcache
 
 - memcache
 - memcached
 
 After installing the necessary PHP extensions, you can ensure that the pictures are uploaded normally.
 
-The PHP extensions that are currently missing in WordPress can be viewed in the website admin backend -> Tools -> Site Health. You can complete the missing necessary extensions through the server control panel or contact the server provider to help you with installing.
+The PHP extensions that are currently missing in WordPress can be viewed in the website admin back-end -> Tools -> Site Health. You can complete the missing necessary extensions through the server control panel or contact the server provider to help you with installing.

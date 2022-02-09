@@ -6,7 +6,8 @@
     "gitbook": "3.2.3",
     "links": {
         "sidebar": {
-            "Duke Yin文档": "https://doc.dukeyin.com/dukeyin/"
+            "Duke Yin WordPress主题文档": "https://doc.dukeyin.com/dukeyin/",
+            "订购":"https://www.dukeyin.com/product/wordpress-multipurpose-theme-dukeyin/"
         }
     },
     "plugins": [

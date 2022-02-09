@@ -6,7 +6,9 @@
     "gitbook": "3.2.3",
     "links": {
         "sidebar": {
-            "时光捕手Docs": "https://doc.dukeyin.com/keepmins/"
+            "时光捕手Docs": "https://doc.dukeyin.com/keepmins/",
+            "English": "https://doc.dukeyin.com/keepmins/en/",
+            "简体中文": "https://doc.dukeyin.com/keepmins/zh/"
         }
     }
 }

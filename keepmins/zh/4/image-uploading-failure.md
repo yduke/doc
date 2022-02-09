@@ -20,7 +20,7 @@ Redis
 
 - redis
 
-Memocache
+Memcache
 
 - memcache
 - memcached
