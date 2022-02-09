@@ -2,14 +2,27 @@
     "plugins": [
         "-sharing",
         "-search",
-        "code"
+        "-lunr",
+        "fontsettings",
+        "code",
+        "minifier"
     ],
     "pluginsConfig": {
 	    "theme-default": {
         "showLevel": true
 		},
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
+        },
         "code": {
             "copyButtons": true
-        }
+        },
+        "minifier": {
+            "html": {},
+            "css": {},
+            "js": {}
+          }
     }
 }

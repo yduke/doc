@@ -20,18 +20,12 @@ Example: `https://keepmins.com/?kmcontent=the content texts you want`
 
  
 
-`kmimage` The image
+`kmimage`  The image
 
-Example: `https://keepmins.com/?kmimage=the URL of a image`
+Example: `https://keepmins.com/?kmimage=the-URL-of-a-image`
 
- 
-
-```
-kmtag` The tag(s)
-Example: `https://keepmins.com/?kmtag=tag1,tag2,TAG3
-```
-
- 
+`kmtag` The tag(s)
+Example:`https://keepmins.com/?kmtag=tag1,tag2,TAG3`
 
 You can surely use these parameters with combinations.
 

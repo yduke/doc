@@ -22,14 +22,13 @@
 
 `kmimage` 图片
 
-示范： `https://keepmins.com/?kmimage=你所想要的图片地址`
+示范： `https://keepmins.com/?kmimage=图片地址URL`
 
  
 
-```
-kmtag` 标签
-示范： `https://keepmins.com/?kmtag=标签1,标签2,标签3
-```
+`kmtag` 标签
+
+示范：`https://keepmins.com/?kmtag=标签1,标签2,标签3`
 
  
 

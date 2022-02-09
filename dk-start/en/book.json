@@ -6,7 +6,8 @@
     "gitbook": "3.2.3",
     "links": {
         "sidebar": {
-            "DK Start Document": "https://doc.dukeyin.com/zh/dk-start"
+            "DK Start Document": "https://doc.dukeyin.com/dk-start/en",
+            "🇨🇳 简体中文": "https://doc.dukeyin.com/dk-start/zh/"
         }
     }
 }

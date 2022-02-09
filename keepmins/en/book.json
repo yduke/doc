@@ -6,9 +6,8 @@
     "gitbook": "3.2.3",
     "links": {
         "sidebar": {
-            "KeepMinutes Docs": "https://doc.dukeyin.com/keepmins/",
-            "English": "https://doc.dukeyin.com/keepmins/en/",
-            "简体中文": "https://doc.dukeyin.com/keepmins/zh/"
+            "KeepMinutes Theme Documents": "https://doc.dukeyin.com/keepmins/",
+            "🇨🇳 简体中文": "https://doc.dukeyin.com/keepmins/zh/"
             
         }
     }
