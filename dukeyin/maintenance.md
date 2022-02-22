@@ -1,5 +1,6 @@
 # 维护
 
+1. [授权和激活](5/authorization.md)
 1. [更新](5/release-update.md)
 2. [翻译](5/multi-language.md)
 3. [故障排除](5/troubleshooting.md)
