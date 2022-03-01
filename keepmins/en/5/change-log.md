@@ -1,5 +1,16 @@
 # Change log
 
+## Keep Minutes  2.9.9
+
+March 01, 2022
+
+- Change to the new WordPress album code format, compatible with the old album format;
+- Post contents no longer automatically adds p tags;
+- jquery and some JavaScript CDN changed to cdn.staticfile.org;
+- The read more button goes to center.
+
+
+
 ## Keep Minutes  2.9.8.6
 
 February 08, 2022

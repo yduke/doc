@@ -5,8 +5,9 @@
 2022年03月01日
 
 - 适配新的WordPress相册代码格式，兼容旧的相册格式；
-- 文章内容不再自动添加p标签
-- jquery 和部分JavaScript CDN改为 cdn.staticfile.org
+- 文章内容不再自动添加p标签;
+- jquery 和部分JavaScript CDN改为 cdn.staticfile.org；
+- 阅读更多按钮居中放置。
 
 
 
