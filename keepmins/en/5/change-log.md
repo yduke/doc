@@ -1,5 +1,14 @@
 # Change log
 
+## Keep Minutes  2.9.9.1
+
+March 02, 2022
+
+- Adapt new WordPress code and pre block style，and now you can copy contents in code and pre;
+- Remove old icon files and styles.
+
+
+
 ## Keep Minutes  2.9.9
 
 March 01, 2022
