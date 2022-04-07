@@ -1,5 +1,14 @@
 # Change log
 
+## Keep Minutes  2.9.9.2
+
+April 07, 2022
+
+- Fixed an issue that images in gallery might zoom out when click;
+- Remove unnecessary styles in theme.
+
+
+
 ## Keep Minutes  2.9.9.1
 
 March 02, 2022
