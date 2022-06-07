@@ -1,5 +1,36 @@
 # Change log
 
+## Keep Minutes  2.9.9.7
+
+June 7, 2022
+
+- Fixed album style disappear after infinite scroll;
+- Fixed rounded corner styles for albums and pictures;
+- Corrected the address of the header cover images;
+- Adapt to responsive images, and the album automatically selects a lower resolution after upload;
+
+
+
+## Keep Minutes  2.9.9.6
+
+May 30, 2022
+
+- Vertical video downsizing;
+- Adapted to the new version of WordPress, and corrected the album style.
+
+
+
+## Keep Minutes  2.9.9.5
+
+May 18, 2022
+
+- Add progress bar <progress> style;
+- Optimized editor style;
+- Disabled widget block editor;
+- Added theme option to choose appropriate emoji CDN source
+
+
+
 ## Keep Minutes  2.9.9.2
 
 April 07, 2022
