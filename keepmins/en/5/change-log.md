@@ -1,5 +1,27 @@
 # Change log
 
+## Keep Minutes  2.9.9.7.3
+
+Auguest 03, 2022
+
+- Add a like button to the community page;
+- Add the title detection of repost articles;
+- Added force login to view function;
+- Added buttons for common text formatting;
+
+
+
+## Keep Minutes  2.9.9.7.2
+
+June 19, 2022
+
+- Fixed resource path errors, compressed Javascript files;
+- Album pictures are in medium size to reduce picture traffic;
+- Added long graph indicator;
+- Shortened the page load timeout threshold;
+
+
+
 ## Keep Minutes  2.9.9.7
 
 June 7, 2022
