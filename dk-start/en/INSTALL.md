@@ -1,5 +1,5 @@
-# 安装
+# Installing
 
-* [依赖](install/dependencies.md)
-* [安装](install/install.md)[](README.md)
+* [Dependences](install/dependencies.md)
+* [Install](install/install.md)[](README.md)
 
