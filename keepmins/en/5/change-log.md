@@ -1,5 +1,17 @@
 # Change log
 
+## Keep Minutes  2.9.9.8.4
+
+Auguest 24,2022
+
+- Update infinite scroll scripts to latest;
+- Search result and archive pages are now infinite scroll-able; 
+- Add a lot of icons to aside post with groups;
+- Statistic page now show the total action for aside post for each users;
+- Pop  up lightbox for creating polls and lists.
+
+
+
 ## Keep Minutes  2.9.9.7.3
 
 Auguest 03, 2022
