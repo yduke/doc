@@ -1,8 +1,35 @@
 # Change log
 
+## Keep Minutes  2.9.9.8.9
+
+August 28,2022
+
+- Remade the layout of the composing interface buttons and enlarged the size of each action buttons
+- The Cancel button is added to the aside post compose interface, and the default state of the writing interface is restored when it is closed or canceled.
+- Adjust the position of emoji button, check-in button, weather indicator icon
+- Adjusted the text size of the location address and device name in the compose interface
+- Prevent from loading dash-icon icon style in frontend
+- Adjusted the hover background color of each options in the voting interface
+- Optimized the navigation buttons after page breaks in articles and pages
+- Infinite Scroll is no longer performed on pages that do not require Infinite scroll
+- Fixed new video and sound files not showing up after infinite scroll
+- Added a unicode option to the "emoji CDN" options  use the built-in emoji on the client device system
+- Created a new API to accept heart requests from outside
+- Prevent same likers information from appearing repeatedly
+- Adjusted the UI size and layout of the forced login interface
+- After login failed in each login interface, it no longer jumps to the original WordPress login interface, but sends a notification
+- Made the OK button of the pop-up layer translatable
+- Replace old deprecated formats in script files with current formats
+- Password input boxes on all login and registration interfaces are disabled from auto-completion.
+- Prompt the user to close the top Adminbar after login
+- Optimized the quote posts style in community page
+- Optimized RTL style
+
+
+
 ## Keep Minutes  2.9.9.8.4
 
-Auguest 24,2022
+August 24,2022
 
 - Update infinite scroll scripts to latest;
 - Search result and archive pages are now infinite scroll-able; 
@@ -14,7 +41,7 @@ Auguest 24,2022
 
 ## Keep Minutes  2.9.9.7.3
 
-Auguest 03, 2022
+August 03, 2022
 
 - Add a like button to the community page;
 - Add the title detection of repost articles;
@@ -27,7 +54,7 @@ Auguest 03, 2022
 
 June 19, 2022
 
-- Fixed resource path errors, compressed Javascript files;
+- Fixed resource path errors, compressed JavaScript files;
 - Album pictures are in medium size to reduce picture traffic;
 - Added long graph indicator;
 - Shortened the page load timeout threshold;
