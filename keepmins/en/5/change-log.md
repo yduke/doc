@@ -1,8 +1,25 @@
 # Change log
 
+## Keep Minutes  2.9.9.8.14
+
+September 04, 2022
+
+- Rearranged post creating form in home page for a little bit.
+- Rearranged actions buttons for a little bit.
+- Fixed an issue that may cause the text expand failure.
+- Formatted some htmls of icons.
+- Aside post contents can now be hidden or expand by click.
+- Like from aside post.
+- Visitors can now set their identity temporarily with cookie for their likes and comments.
+- Add blacklist option for community.
+- Register page url now detected by program, so no need for option.
+- Add aside post action name data for km post json api.
+
+
+
 ## Keep Minutes  2.9.9.8.9
 
-August 28,2022
+August 28, 2022
 
 - Remade the layout of the composing interface buttons and enlarged the size of each action buttons
 - The Cancel button is added to the aside post compose interface, and the default state of the writing interface is restored when it is closed or canceled.
@@ -29,7 +46,7 @@ August 28,2022
 
 ## Keep Minutes  2.9.9.8.4
 
-August 24,2022
+August 24, 2022
 
 - Update infinite scroll scripts to latest;
 - Search result and archive pages are now infinite scroll-able; 
