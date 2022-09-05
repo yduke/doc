@@ -19,7 +19,7 @@ September 04, 2022
 
 ## Keep Minutes 2.9.9.8.10
 
-2022年08月28日
+August 28, 2022
 
 - Load "image uploading" JavaScripts from a file instead of embedded it in page
 - Community "likes" will open into a new window to avoid being blocked due to cross-site policy
@@ -29,7 +29,7 @@ September 04, 2022
 
 ## Keep Minutes 2.9.9.8.9
 
-August 28, 2022
+August 27, 2022
 
 - Remade the layout of the composing interface buttons and enlarged the size of each action buttons
 - The Cancel button is added to the aside post compose interface, and the default state of the writing interface is restored when it is closed or canceled.
