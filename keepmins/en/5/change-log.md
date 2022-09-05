@@ -17,6 +17,16 @@ September 04, 2022
 
 
 
+## 时光捕手2.9.9.8.10
+
+2022年08月28日
+
+- Load "image uploading" JavaScripts from a file instead of embedded it in page
+- Community "likes" will open into a new window to avoid being blocked due to cross-site policy
+- Improve the external-like, heart mechanism
+
+
+
 ## Keep Minutes  2.9.9.8.9
 
 August 28, 2022
