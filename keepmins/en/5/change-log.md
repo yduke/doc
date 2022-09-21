@@ -1,5 +1,35 @@
 # Change log
 
+## Keep Minutes  2.9.9.8.18
+
+September 19, 2022
+
+- Adjusted the position of the like counts
+- Before click heart, visitors need to enter temporary identity information to record the their identities
+
+
+
+## Keep Minutes  2.9.9.8.16
+
+September 07, 2022
+
+- Support direct posting of URLs of Bilibili, NetEase Cloud Music, YouTube, Spotify, Vimeo for inserting media
+- Fixed the style of dialogue articles
+- Buttons add rounded corners
+- Adjusted the color of some buttons
+
+
+
+## Keep Minutes  2.9.9.8.15
+
+September 05, 2022
+
+- Add button to clear temporary visitor identity
+- Aside posts can now be fold, style updated
+- Asid posts avatars on community pages linked to site home pages
+
+
+
 ## Keep Minutes  2.9.9.8.14
 
 September 04, 2022
