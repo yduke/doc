@@ -90,11 +90,12 @@ For example: My site language is English and I lived in US, I only have to get a
 
 1. Go to [https://lbs.qq.com](https://lbs.qq.com/)
 2. Click on the menu on the top right corner of the homepage:”**控制台**“, login with your QQ or Wechat account.
-3. Click on the left after successful login: “**Key管理**“
-4. Click “**创建新密匙**”
-5. Name your key at “**Key名称**“, any word you like, describe it in “**描述**”, like “my check-in key”, After completing the verification code, click “继续” continue.
-6. In”启用产品”, make sure “**Javascript**“, “**地图组件**“and “**Webservice**” are both checked.
-7. Check the “**域名白名单**” field and enter the domain name of the website, if your website is https://www.twitter.com , then your white list should be:
+3. Click on the left after successful login: “**应用管理 - 我的应用**“
+4. Click “**创建应用**” then input the name and category you like.
+4. After that, click "**+ 添加Key**" on top right of page.
+5. Name your key at “**Key名称**“, any word you like, description it in “**描述**”, like “my check-in key”, After completing the verification code, click “继续” to continue.
+6. In”启用产品”, make sure  “**Webservice**” are checked.
+7. On “**域名白名单**” field and enter the domain name of the website, if your website is https://www.twitter.com , then your white list should be:
 
 ```
  twitter.com
