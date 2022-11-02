@@ -1,5 +1,17 @@
 # Change log
 
+## Keep Minutes  2.9.11.1
+
+November 01, 2022
+
+- Added a  WebFont to display English and numbers
+- "Like" icon mobile phone screen style optimization
+- Fixed the recognition of Bilibili short links, and the links copied on mobile phones can also be correctly recognized
+- Test the new options API
+- Updated China Yes avatar URL to existing cravatar.cn
+
+
+
 ## Keep Minutes  2.9.9.8.18
 
 September 19, 2022
