@@ -1,5 +1,17 @@
 # Change log
 
+## Keep Minutes  2.9.11.2
+
+November 17, 2022
+
+- Prevent bots from crawling the likes API, resulting in wrongly adding likes
+- Tag synonym:
+   - Admin can now add existing tags as synonyms for one tag
+   - Tag page adds synonym links (if any)
+   - In addition to displaying the original content, the main tag page will also contain synonym tags contents
+
+
+
 ## Keep Minutes  2.9.11.1
 
 November 01, 2022
