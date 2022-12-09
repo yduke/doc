@@ -7,3 +7,5 @@
 5. [发布照片与自拍](3/publish-photo.md)
 6. [发布商品](3/publish-product.md)
 7. [发布封面幻灯](3/publish-slideshow.md)
+7. [发布影评或剧评](3/publish-movie-review.md)
+
