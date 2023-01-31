@@ -1,0 +1,13 @@
+{
+    "title": "DK PSN Document",
+    "author": "Duke Yin",
+    "description": "The Documents of DK PSN WordPress Plugin, sync and save psn games and trophies.",
+    "language": "en",
+    "gitbook": "3.2.3",
+    "links": {
+        "sidebar": {
+            "DK PSN Documents": "https://doc.dukeyin.com/dk-psn/en",
+            "🇨🇳 简体中文": "https://doc.dukeyin.com/dk-psn/zh/"
+        }
+    }
+}

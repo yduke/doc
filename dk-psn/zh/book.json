@@ -1,0 +1,13 @@
+{
+    "title": "DK PSN说明文档",
+    "author": "Duke Yin",
+    "description": "DK PSN WordPress插件说明文档，PSN游戏奖杯同步",
+    "language": "zh",
+    "gitbook": "3.2.3",
+    "links": {
+        "sidebar": {
+            "DK导航插件说明文档": "https://doc.dukeyin.com/dk-psn/zh/",
+            "🇬🇧 English": "https://doc.dukeyin.com/dk-psn/en/"
+        }
+    }
+}

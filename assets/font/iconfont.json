@@ -6,6 +6,20 @@
   "description": "The documents homepage",
   "glyphs": [
     {
+      "icon_id": "9080888",
+      "name": "playstation",
+      "font_class": "psn",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "5634805",
+      "name": "playstation",
+      "font_class": "playstation",
+      "unicode": "f214",
+      "unicode_decimal": 61972
+    },
+    {
       "icon_id": "29360",
       "name": "Talk",
       "font_class": "keepmins",
