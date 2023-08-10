@@ -1,5 +1,28 @@
 # Change log
 
+## Keep Minutes  2.9.12
+
+August 10, 2023
+
+- Prevent duplicate synonyms tags from appearing
+- Add Skeleton loading effect
+- Fixed infinite loading animation
+- Control quality of PHP converting Webp image 
+- Fix voting style
+- Removed IE warning
+- Fixed Netease  music link error
+- Attachment template fixes
+- Force login is more secure
+- New Theme Options API
+- Add game-log template
+- Updated the update checker
+- Fixed a bug that the album images were not displayed in the iOS browsers
+- Added a custom RestAPI that outputs all article activity
+- Prevent warnings from comments' OS detection in new or unknown OS
+- Fixed a bug caused by the update of WordPress6.3, unable to post in forced login mode
+
+
+
 ## Keep Minutes  2.9.11.2
 
 November 17, 2022
