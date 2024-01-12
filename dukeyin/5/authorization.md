@@ -52,7 +52,7 @@ The license key has been deactivated for this domain
 
 ### 如果你的旧域名仍在运行WordPress：
 
-安装并激活“时光捕手2”主题，在“主题许可”处填入激活码，点击“停用”，然后再在新域名的WordPress站点“主题许可处”填入激活码点击“激活”。
+安装并激活主题后，在“主题许可”处填入激活码，点击“停用”，然后再在新域名的WordPress站点“主题许可处”填入激活码点击“激活”。
 
 ### 如果你的旧域名已弃用或不再运行WordPress：
 
