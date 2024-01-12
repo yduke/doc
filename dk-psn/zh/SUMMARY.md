@@ -6,3 +6,4 @@
 * [设置PSN](04-config-psn.md)
 * [设置Steam](05-config-steam.md)
 * [关于Cron Job](06-cron-job.md)
+* [代理和中继](07-proxy-relay.md)
