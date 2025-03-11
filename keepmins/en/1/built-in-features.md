@@ -9,8 +9,10 @@
 - Built-in SEO options, personalize your site in one minute.
 - Built-in emoji selector, insert an emoji to your content on the go.
 - Built-in infinite scroll.
+- Paste the URL of YouTube, Spotify, Vimeo, Bilibili, NetEase Cloud Music to insert media
+- Poll
 
  
 
-Note:The GPS check-in feature requires your website to have a configured SSL certificate (ie https access).
+Note: The GPS check-in feature requires your website to have a configured SSL certificate (ie https access).
 Dark mode is currently only supported on Windows 10+, iOS 13+, MacOS Mojave+ and Chrome76+ for Android.

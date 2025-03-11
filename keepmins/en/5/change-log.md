@@ -1,5 +1,42 @@
 # Change log
 
+## Keep Minutes 2.9.13
+
+March 12, 2025
+
+- Improved the style of dark mode
+- Use the official icon of HeWeater to adapt to the new weather api (Chinese only)
+- Updated the dialog script, the dialog can be dragged
+- Logout confirmation is executed using the dialog script
+
+
+
+## Keep Minutes 2.9.12.12
+
+December 05, 2024
+
+- With new version of WordPress, improved the translation mechanism
+
+
+
+## Keep Minutes 2.9.12.11
+
+November 05, 2024
+
+- Added a beautiful scroll bar
+
+- Fixed the bug of CDN options
+- Adaptation code
+- Improved the dependency of JavaScripts
+- Fix the bug that PI does not work
+- Added the "Flag here" flag capture function and added a map page template for the flag overview
+- Add more information when signing in to obtain the geographic location
+- Weather information can now be displayed under the weather icon
+- We have taken preventive measures for videos posted by friends on the community page to prevent full-screen videos from breaking the page.
+- Improved the Bilibili video publishing function
+
+
+
 ## Keep Minutes  2.9.12
 
 August 10, 2023
