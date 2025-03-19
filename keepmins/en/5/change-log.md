@@ -1,5 +1,15 @@
 # Change log
 
+## Keep Minutes 2.9.13.4
+
+March 19, 2025
+
+- Fix issues of love button, love counts will now be shown on mobile device.
+- Save more information for weather now when getting gps location
+- Weather description language now automatically switch between Chinese and English, depending on the language setting of WordPress.
+
+
+
 ## Keep Minutes 2.9.13
 
 March 12, 2025
